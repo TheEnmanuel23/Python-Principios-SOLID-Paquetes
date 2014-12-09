@@ -1,0 +1,2 @@
+echo 'Comienza el programa'
+python3 lanzador.py

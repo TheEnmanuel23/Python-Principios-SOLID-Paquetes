@@ -1,0 +1,293 @@
+------->
+<Modelo.senial.SenialPila object at 0x100725d30>
+2014-09-07 18:59:08.222441
+Señal Guardada:100
+------->
+<Modelo.senial.SenialCola object at 0x1007294a8>
+2014-09-07 18:59:17.792989
+Señal Guardada:200
+------->
+<Modelo.senial.SenialPila object at 0x100725d30>
+2014-09-07 18:59:17.793410
+Señal Leida:100
+------->
+<Modelo.senial.SenialCola object at 0x1007294a8>
+2014-09-07 18:59:17.794260
+Señal Leida:200
+------->
+<DIP.Modelo.senial.SenialPila object at 0x1020c6f60>
+2014-09-07 19:01:59.698726
+Señal Guardada:300
+------->
+<DIP.Modelo.senial.SenialCola object at 0x1020c6fd0>
+2014-09-07 19:02:11.504479
+Señal Guardada:600
+------->
+<DIP.Modelo.senial.SenialPila object at 0x1020c6f60>
+2014-09-07 19:02:11.504870
+Señal Leida:300
+------->
+<DIP.Modelo.senial.SenialCola object at 0x1020c6fd0>
+2014-09-07 19:02:11.505732
+Señal Leida:600
+------->
+Lectura desde archivo
+2014-09-13 16:48:57.103671
+Realizada
+------->
+Lectura desde archivo
+2014-09-13 17:02:08.370444
+Realizada
+------->
+Lectura desde archivo
+2014-09-13 19:57:32.641924
+Realizada
+------->
+Lectura desde archivo
+2014-09-13 20:00:00.023650
+Realizada
+------->
+Lectura desde archivo
+2014-09-13 20:02:19.006405
+Realizada
+------->
+Lectura desde archivo
+2014-09-13 20:03:23.633945
+Realizada
+------->
+Lectura desde archivo
+2014-09-14 10:25:06.453739
+Realizada
+------->
+Lectura desde archivo
+2014-09-14 10:28:07.364548
+Realizada
+------->
+Lectura desde archivo
+2014-09-14 10:29:10.994126
+Realizada
+------->
+Lectura desde archivo
+2014-09-14 10:30:55.433678
+Realizada
+------->
+Lectura desde archivo
+2014-09-14 10:33:32.636489
+Realizada
+------->
+Lectura desde archivo
+2014-09-14 10:34:04.635240
+Realizada
+------->
+Lectura desde archivo
+2014-09-14 10:34:43.798213
+Realizada
+------->
+Lectura desde archivo
+2014-09-14 10:36:04.047851
+Realizada
+------->
+Lectura desde archivo
+2014-09-14 10:37:12.127910
+Realizada
+------->
+Lectura desde archivo
+2014-09-14 10:53:55.061542
+Realizada
+------->
+ID: 100
+Comentario: seno
+2014-09-14 10:54:28.770048
+Señal Guardada:100
+------->
+Lectura desde archivo
+2014-09-14 10:56:44.063253
+Realizada
+------->
+ID: 1000
+Comentario: SENO
+2014-09-14 10:56:54.208707
+Señal Guardada:1000
+------->
+ID: 2000
+Comentario: SENO PROC
+2014-09-14 10:59:16.093328
+Señal Guardada:2000
+------->
+Lectura desde archivo
+2014-09-14 11:02:14.705193
+Realizada
+------->
+ID: 1000
+Comentario: seno
+2014-09-14 11:02:25.016373
+Señal Guardada:1000
+------->
+Lectura desde archivo
+2014-09-14 11:07:40.962486
+Realizada
+------->
+ID: 1500
+Comentario: seno 2
+2014-09-14 11:07:52.468796
+Señal Guardada:1500
+------->
+ID: 2500
+Comentario: SENO PROCESADO
+2014-09-14 11:08:12.342263
+Señal Guardada:2500
+------->
+Lectura desde archivo
+2014-09-14 11:09:50.283922
+Realizada
+------->
+ID: 1111
+Comentario: SSSSS
+2014-09-14 11:10:01.441786
+Señal Guardada:1111
+------->
+ID: 2222
+Comentario: PPPPP
+2014-09-14 11:10:11.812450
+Señal Guardada:2222
+------->
+Lectura desde archivo
+2014-09-14 17:32:08.639110
+Realizada
+------->
+ID: 666
+Comentario: sss
+2014-09-14 17:32:19.934411
+Señal Guardada:666
+------->
+ID: 444
+Comentario: snsnsn
+2014-09-14 17:32:30.023302
+Señal Guardada:444
+------->
+Lectura desde archivo
+------->
+Lectura desde archivo
+2014-10-12 12:12:31.936186
+Realizada
+------->
+Lectura desde archivo
+2014-10-12 12:17:00.801856
+Realizada
+------->
+ID: 111
+Comentario: Primera Senial
+2014-10-12 12:17:12.471684
+Señal Guardada:111
+------->
+ID: 222
+Comentario: Senial Procesada
+2014-10-12 12:17:30.799772
+Señal Guardada:222
+------->
+Lectura desde archivo
+2014-10-12 12:31:16.515610
+Realizada
+------->
+ID: 1000
+Comentario: DDDDD
+2014-10-12 12:31:25.208781
+Señal Guardada:1000
+------->
+ID: 2000
+Comentario: HHHH
+2014-10-12 12:31:36.656467
+Señal Guardada:2000
+------->
+ID: 2000
+Comentario: HHHH
+2014-10-12 12:31:36.662331
+Señal Rescatada2000
+------->
+Lectura desde archivo
+2014-10-12 12:33:04.711201
+Realizada
+------->
+ID: 888
+Comentario: yuyuyuyuyuyu
+2014-10-12 12:33:33.915651
+Señal Guardada:888
+------->
+ID: 3333
+Comentario: QWQWQWQWW
+2014-10-12 12:33:44.756985
+Señal Guardada:3333
+------->
+ID: 3333
+Comentario: QWQWQWQWW
+2014-10-12 12:33:44.761643
+Señal Rescatada3333
+------->
+Lectura desde archivo
+2014-12-07 15:18:30.096334
+Realizada
+------->
+Lectura desde archivo
+2014-12-07 16:01:25.024801
+Realizada
+------->
+ID: 111
+Comentario: aaaaaaa
+2014-12-07 16:01:38.074864
+Señal Guardada:111
+------->
+ID: 55555
+Comentario: tttttt
+2014-12-07 16:01:51.011997
+Señal Guardada:55555
+------->
+ID: 55555
+Comentario: tttttt
+2014-12-07 16:01:51.013447
+Señal Rescatada55555
+------->
+Lectura desde archivo
+2014-12-07 16:28:56.376583
+Realizada
+------->
+Lectura desde archivo
+2014-12-07 17:42:50.534645
+Realizada
+------->
+ID: 777
+Comentario: 678678687
+2014-12-07 17:43:02.809727
+Señal Guardada:777
+------->
+ID: 666
+Comentario: fgfgfghfh
+2014-12-07 17:43:22.395715
+Señal Guardada:666
+------->
+ID: 666
+Comentario: fgfgfghfh
+2014-12-07 17:43:22.397164
+Señal Rescatada666
+------->
+Lectura desde archivo
+2014-12-07 17:43:30.844600
+Realizada
+------->
+ID: 1
+Comentario: Mi senal
+2014-12-07 17:43:44.794579
+Señal Guardada:1
+------->
+ID: 2
+Comentario: La proceso
+2014-12-07 17:43:59.577047
+Señal Guardada:2
+------->
+ID: 2
+Comentario: La proceso
+2014-12-07 17:43:59.578689
+Señal Rescatada2
+------->
+Lectura desde archivo
+2014-12-07 19:44:32.427530
+Realizada
